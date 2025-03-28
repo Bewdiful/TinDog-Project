@@ -1,4 +1,12 @@
 # TinDog-Project
+![image](https://github.com/user-attachments/assets/36e6f27f-2fd9-4cd4-a922-4f876089edcc)
+
+![image](https://github.com/user-attachments/assets/83d42241-bfbd-4b9c-a9b3-103b5886ab60)
+
+
+![image](https://github.com/user-attachments/assets/5630a166-a3b3-4abf-ae1f-801bd64cdb57)
+
+
 TinDog Project tinder for dogs 
 # TinDog Project
 
